@@ -2,6 +2,10 @@
 
 The code contained in this repository can be used to win the Attack Game 12 (Auxiliary One-More SIDH) contained in the Asiacrypt 2020 [Oblivious Pseudorandom Functions from Isogenies](https://eprint.iacr.org/2020/1532) paper.
 
+## Requirements
+
+The code runs on Sage 9.2 compiled with Python 3.
+
 ## Usage
 
 1. `git clone https://github.com/isogenists/isogeny-OPRF.git`
