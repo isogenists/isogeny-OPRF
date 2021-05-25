@@ -1,4 +1,4 @@
-# oblivious PRF from supersingular isogenies attack
+# Oblivious PRF from supersingular isogenies attack
 
 ## Usage
 
