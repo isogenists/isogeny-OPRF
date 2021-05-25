@@ -1,4 +1,4 @@
-# Oblivious PRF from supersingular isogenies attack
+# Sage implementation of the attack against the Oblivious PRF from supersingular isogenies
 
 ## Usage
 
