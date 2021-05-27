@@ -18,7 +18,7 @@ The folder `paramsets` contains Sage files with different parameters which cna b
 
 `sage one_more_attack.sage -e 3`
 
-The '-q' flag controls the number of queries being `2^q`, e.g. 
+The `-q` flag controls the number of queries being `2^q`, e.g. 
 
 `sage one_more_attack.sage -e 4 -q 8`
 
